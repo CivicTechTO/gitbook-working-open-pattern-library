@@ -9,5 +9,5 @@
 * [Documents: Private Resource Inventory](documents-private-resource-inventory.md)
 * [Documents: Call-Out Box](documents-call-out-box.md)
 * [Chat: Public Logs](chat-public-logs.md)
-* Documents: Call-Out Box
+* [Documents: Call-Out Box](documents-call-out-box.md)
 
