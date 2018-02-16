@@ -7,6 +7,7 @@
 * [Trello: Dashboard Board](trello-dashboard-board.md)
 * [Documents: Services & Access Inventory](documents-services-and-access-inventory.md)
 * [Documents: Private Resource Inventory](documents-private-resource-inventory.md)
+* [Documents: Call-Out Box](documents-call-out-box.md)
 * [Chat: Public Logs](chat-public-logs.md)
-* [Decision-Making: Focussed Conversation Method](decision-making-focussed-conversation-method.md)
+* Documents: Call-Out Box
 

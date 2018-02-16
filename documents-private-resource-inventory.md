@@ -11,5 +11,9 @@ Related Patterns:
 
 * [Open Folder Hierarchy](#Pattern-Private-Resource-Inventory)
 
+#### Acknowledgements
+
+* EDGI
+
 
 
