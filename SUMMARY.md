@@ -1,3 +1,12 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Google Drive: Open Folder Hierarchy](chapter1.md)
+* [Google Drive: Consensus-Based Editing](google-drive-consensus-based-editing.md)
+* [Trello: Onboarding Board](trello-onboarding-board.md)
+* [Trello: Dashboard Board](trello-dashboard-board.md)
+* [Documents: Services & Access Inventory](documents-services-and-access-inventory.md)
+* [Documents: Private Resource Inventory](documents-private-resource-inventory.md)
+* [Chat: Public Logs](chat-public-logs.md)
+* [Decision-Making: Focussed Conversation Method](decision-making-focussed-conversation-method.md)
+

@@ -1,3 +1,17 @@
-# First Chapter
+# Pattern: Open Folder Hierarchy
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+The goal of this pattern is to offer a public Google Drive folder hierarchy for resources that a stakeholder community might appreciate having in one place.
+
+In one of the simpler cases, this involves two non-nested folders, such as below. \(Non-nesting is to avoid permission confusion or unexpected re-permissioning behavior.\)
+
+* `<Project> - Public`. Public can view. \(Liberal edit access with clear "ask" process. Whenever possible, individual docs have "can comment" turned on, so suggestion mode can be used by anyone, logged in or not.\)
+* `<Project> - Privileged`. Only invited can view. \(Clear "ask" process.\)
+
+Example: [https://drive.google.com/drive/u/0/folders/1IAmN82zXU39quDnTqioFOsDYJ33uDh4i](https://drive.google.com/drive/u/0/folders/1IAmN82zXU39quDnTqioFOsDYJ33uDh4i)
+
+Related Patterns:
+
+* [Private Resource Inventory](/documents-private-resource-inventory.md)
+
+
+
