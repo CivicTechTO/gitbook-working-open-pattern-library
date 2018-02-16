@@ -9,3 +9,5 @@
 * [Documents: Private Resource Inventory](documents-private-resource-inventory.md)
 * [Documents: Call-Out Box](documents-call-out-box.md)
 * [Chat: Public Logs](chat-public-logs.md)
+* [Verbatim Records: Humane Transparency](verbatim-artefacts-humane-transparency.md)
+
