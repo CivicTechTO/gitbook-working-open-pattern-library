@@ -14,13 +14,16 @@ This benefits over email aliases forwarded directly to personal or shared GMail 
 * **Permission system intended for shared management.** Google Groups expect to have multiple administrators and different degrees of access -- each person uses their own Google account to log in.
 * **Record of history in easily shared space.** When new people arrive, they join the group and have full access to past communications -- no forwarding emails, or logging into obscure organizational email accounts.
 * **Customizable notification levels.** Google Groups are intended to let people fine tune their notifications -- an email per message, a daily digest, or completely disable notification in favour of just visiting the web interface.
+* **Add people to alias without messing with DNS provider settings.** When using an email alias, adding people usually involves logging into the DNS provider, and adding new emails to the alias. But login access to DNS provider is best not to share too widely -- the wrong setting can shut down your whole website. Google Groups can be set up so that others can help manage group membership. They can even be set up so that anyone can ask to join, so the right people can self-select.
 
 How to use:
 
 * Have people contact you through the alias.
 * When sending outgoing mail from personal gmail accounts, cc the alias.
 * You may configure your personal GMail account [like so](https://webapps.stackexchange.com/questions/66228/add-new-alias-to-gmail-without-smtp-forwarding-only-address/72975#72975), but:
+
   * For scrappy, grassroots groups, we recommend NOT using the alias to send outgoing mail. This is for a couple reasons:
+
     * It may seem more "official", but that comes with much higher expectations, sometimes difficult to meet by volunteers.
 
     * People are nicer and more understanding when you speak to them through personal email addresses.
