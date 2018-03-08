@@ -14,6 +14,8 @@ WIP
 
 WIP
 
+The content for this book is found in a GitHub repository: [`CivicTechTO/gitbook-working-open-pattern-library`](https://github.com/CivicTechTO/gitbook-working-open-pattern-library)
+
 ## Contributors {#Contributors}
 
 * @patcon
