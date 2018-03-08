@@ -19,6 +19,11 @@ How to use:
 
 * Have people contact you through the alias.
 * When sending outgoing mail from personal gmail accounts, cc the alias.
+* You may configure your personal GMail account [like so](https://webapps.stackexchange.com/questions/66228/add-new-alias-to-gmail-without-smtp-forwarding-only-address/72975#72975), but:
+  * For scrappy, grassroots groups, we recommend NOT using the alias to send outgoing mail. This is for a couple reasons:
+    * It may seem more "official", but that comes with much higher expectations, sometimes difficult to meet by volunteers.
+
+    * People are nicer and more understanding when you speak to them through personal email addresses.
 
 Examples of when this might be useful:
 
