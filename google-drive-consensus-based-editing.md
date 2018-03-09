@@ -13,7 +13,7 @@ Examples:
 
 #### Related Patterns
 
-* A [CALL-OUT BOX](/documents-call-out-box.md) at the top of documents are a great way to communicate this pattern.
+* A [CALL-OUT BOX](/documents-call-out-box.md) at the top of documents is a great way to communicate this pattern.
 
 #### Acknowledgements
 
