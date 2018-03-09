@@ -6,9 +6,9 @@
 
 #### Related Patterns
 
-* Great candidates for content:
+* Great candidates for call-out box content:
   * An explanation of [CONSENSUS-BASED EDITING](/google-drive-consensus-based-editing.md) of the document.
-  * A CLEAR TIMELINE of phases a document will go through.
+  * A [CLEAR TIMELINE](/process-clear-timelines.md) of phases a document will go through.
 
 #### Acknowledgements
 

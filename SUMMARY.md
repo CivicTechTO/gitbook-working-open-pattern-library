@@ -11,4 +11,5 @@
 * [Chat: Public Logs](chat-public-logs.md)
 * [Verbatim Records: Humane Transparency](verbatim-artefacts-humane-transparency.md)
 * [Google Groups: Shared Inbox](google-groups-shared-inbox.md)
+* [Process: Clear Timelines](process-clear-timelines.md)
 
