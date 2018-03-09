@@ -9,9 +9,9 @@ In one of the simpler cases, this involves two non-nested folders, such as below
 
 Example: [https://drive.google.com/drive/u/0/folders/1IAmN82zXU39quDnTqioFOsDYJ33uDh4i](https://drive.google.com/drive/u/0/folders/1IAmN82zXU39quDnTqioFOsDYJ33uDh4i)
 
-Related Patterns:
+### Related Patterns
 
-* [Private Resource Inventory](/documents-private-resource-inventory.md)
+* A [PRIVATE RESOURCE INVENTORY](/documents-private-resource-inventory.md) to clarify important contents in the privileged folder.
 
 
 
