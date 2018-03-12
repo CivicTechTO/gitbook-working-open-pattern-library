@@ -7,9 +7,9 @@ This is a document, ideally in a prominent location \(like the top level of a sh
 
 Example: [https://docs.google.com/document/d/1duuRW36NcRZtwvNXwrPTTKcgpmp1SYF-oaHGAvswBQk/edit](https://docs.google.com/document/d/1duuRW36NcRZtwvNXwrPTTKcgpmp1SYF-oaHGAvswBQk/edit)
 
-Related Patterns:
+#### Related Patterns
 
-* [Open Folder Hierarchy](#Pattern-Private-Resource-Inventory)
+* This pattern can help clarify the contents of more restricted folders in an [OPEN FOLDER HIERARCHY](/open-folder-hierarchy.md).
 
 #### Acknowledgements
 
