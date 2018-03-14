@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Google Drive: Open Folder Hierarchy](open-folder-hierarchy.md)
+* [Process: Focussed Conversation](decision-making-focussed-conversation-method.md)
 * [Documents: Call-Out Box](documents-call-out-box.md)
 * [Google Drive: Consensus-Based Editing](google-drive-consensus-based-editing.md)
 * [Trello: Onboarding Board](trello-onboarding-board.md)
