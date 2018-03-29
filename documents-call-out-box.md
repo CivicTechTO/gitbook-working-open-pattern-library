@@ -2,7 +2,7 @@
 
 #### Examples
 
-* [https://docs.google.com/document/d/1dC9\_ABH2Qkf9pLIH0Ix3MGG4y4kIr-yz4C63WLir4Xk/edit](https://docs.google.com/document/d/1dC9_ABH2Qkf9pLIH0Ix3MGG4y4kIr-yz4C63WLir4Xk/edit)
+* [EDGI Archiving/Technical Working Group Process](https://docs.google.com/document/d/1LgeB_2SBdxecKlKtDjH1scuOrCl-O0pAcly-Xy9Plr0/edit#heading=h.jkj1nyib8wf1)
 
 #### Related Patterns
 
@@ -14,6 +14,3 @@
 #### Acknowledgements
 
 * @dcwalk
-
-
-
